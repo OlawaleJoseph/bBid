@@ -1,5 +1,7 @@
 
 [![Build Status](https://travis-ci.com/OlawaleJoseph/bBid.svg?branch=develop)](https://travis-ci.com/OlawaleJoseph/bBid)
+
+[![Coverage Status](https://coveralls.io/repos/github/OlawaleJoseph/bBid/badge.svg?branch=develop)](https://coveralls.io/github/OlawaleJoseph/bBid?branch=develop)
 # README
 
 This README would normally document whatever steps are necessary to get the
