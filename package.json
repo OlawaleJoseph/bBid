@@ -1,7 +1,6 @@
 {
   "name": "bBid",
   "private": true,
-  "node": "12.18.2", 
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
