@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.7.1
-node:
+node_js:
   - 12.18.2
 cache:
   - bundler
