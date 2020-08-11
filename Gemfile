@@ -36,6 +36,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 4.0', '>= 4.0.1'
   # Travis cor countinous integration
   gem 'travis'
+  # Coveralls
+  gem 'coveralls', require: false
 end
 
 group :development do
