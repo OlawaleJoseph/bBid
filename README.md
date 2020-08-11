@@ -1,3 +1,5 @@
+
+[![Build Status](https://travis-ci.com/OlawaleJoseph/bBid.svg?branch=develop)](https://travis-ci.com/OlawaleJoseph/bBid)
 # README
 
 This README would normally document whatever steps are necessary to get the
