@@ -42,3 +42,6 @@ yarn-debug.log*
 
 # Gemfile.lock to prevent travis from failing
 Gemfile.lock
+
+# Code Coverage file
+/coverage
