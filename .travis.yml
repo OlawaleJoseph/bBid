@@ -15,4 +15,4 @@ before_script:
   - bundle exec rails db:create
   - bundle exec rails db:migrate
 script:
-  - bundle exec rake spec
+  - bundle exec rails spec
